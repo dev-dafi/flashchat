@@ -2,6 +2,7 @@
 ![Flash Chat Mockup](Documentation/flashchat-mockup.jpg)
 
 # Flash-Chat
+This is the finished project, from the Udemcy course Complete iOS App Development Bootcamp.
 
 ## Our Goal
 
